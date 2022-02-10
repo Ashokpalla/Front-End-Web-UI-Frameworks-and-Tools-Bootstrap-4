@@ -21,7 +21,7 @@
     "homepage": "https://github.com/python541/git-test#readme",
     "devDependencies": {
         "lite-server": "^2.5.4",
-        "node-sass": "^4.14.1"
+        "node-sass": "^7.0.0"
     },
     "dependencies": {
         "bootstrap": "^4.4.1",
